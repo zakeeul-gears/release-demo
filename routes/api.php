@@ -13,7 +13,7 @@ use Illuminate\Support\Facades\Route;
 | is assigned the "api" middleware group. Enjoy building your API!
 |
 */
-//ets cddc dfd df dfd
+//ets cddc dfd df dfd dsf
 Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
     return $request->user();
 });
