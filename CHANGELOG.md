@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/zakeeul-gears/release-demo/compare/v1.1.0...v1.2.0) (2024-01-11)
+
+
+### Features
+
+* **grv:** grv dropdwon [GCP-125] ([#15](https://github.com/zakeeul-gears/release-demo/issues/15)) ([619b81e](https://github.com/zakeeul-gears/release-demo/commit/619b81e6bfe0381bbe63886715bd1679656f6f78))
+
 ## [1.1.0](https://github.com/zakeeul-gears/release-demo/compare/v1.0.1...v1.1.0) (2024-01-10)
 
 
