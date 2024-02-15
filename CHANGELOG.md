@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.6.0](https://github.com/zakeeul-gears/release-demo/compare/v1.5.0...v1.6.0) (2024-02-15)
+
+
+### Features
+
+* test b ([4e44213](https://github.com/zakeeul-gears/release-demo/commit/4e44213c95ba4d7eabbc2a39977cf5715c4adcda))
+
 ## [1.5.0](https://github.com/zakeeul-gears/release-demo/compare/v1.4.0...v1.5.0) (2024-02-15)
 
 
