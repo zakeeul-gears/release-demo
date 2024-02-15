@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.0](https://github.com/zakeeul-gears/release-demo/compare/v1.3.0...v1.4.0) (2024-02-15)
+
+
+### Features
+
+* xs ([48716d7](https://github.com/zakeeul-gears/release-demo/commit/48716d723f4b6b0a89540883e1a3805e1ee08e27))
+
 ## [1.3.0](https://github.com/zakeeul-gears/release-demo/compare/v1.2.0...v1.3.0) (2024-02-15)
 
 
