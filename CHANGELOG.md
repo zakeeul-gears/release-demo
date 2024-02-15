@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.3.0](https://github.com/zakeeul-gears/release-demo/compare/v1.2.0...v1.3.0) (2024-02-15)
+
+
+### Features
+
+* commit one ([3210efb](https://github.com/zakeeul-gears/release-demo/commit/3210efb5740b75cb30b28f17e89a5630e960cb12))
+
+
+### Bug Fixes
+
+* xommit tw x ([a952e0d](https://github.com/zakeeul-gears/release-demo/commit/a952e0d407b9aea2b0427489d61181c402924a56))
+
 ## [1.2.0](https://github.com/zakeeul-gears/release-demo/compare/v1.1.0...v1.2.0) (2024-01-11)
 
 
