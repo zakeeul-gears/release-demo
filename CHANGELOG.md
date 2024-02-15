@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.8.0](https://github.com/zakeeul-gears/release-demo/compare/v1.7.0...v1.8.0) (2024-02-15)
+
+
+### Features
+
+* cccccc ([ee3b841](https://github.com/zakeeul-gears/release-demo/commit/ee3b841de943b38559b68fbef972eef497db9ad2))
+
 ## [1.7.0](https://github.com/zakeeul-gears/release-demo/compare/v1.6.0...v1.7.0) (2024-02-15)
 
 
