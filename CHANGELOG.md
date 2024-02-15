@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.11.0](https://github.com/zakeeul-gears/release-demo/compare/v1.10.0...v1.11.0) (2024-02-15)
+
+
+### Features
+
+* zzzz ([#36](https://github.com/zakeeul-gears/release-demo/issues/36)) ([a3a4246](https://github.com/zakeeul-gears/release-demo/commit/a3a4246dab73bc6d19e43f4865e94ff01e3f7c7b))
+
 ## [1.10.0](https://github.com/zakeeul-gears/release-demo/compare/v1.9.0...v1.10.0) (2024-02-15)
 
 
