@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.12.1](https://github.com/zakeeul-gears/release-demo/compare/v1.12.0...v1.12.1) (2024-06-25)
+
+
+### Bug Fixes
+
+* **attendnace:** dddd name definition issue fixed [GHR-1618] ([8f712f1](https://github.com/zakeeul-gears/release-demo/commit/8f712f13c46a8f2e908eef47b4690020ce07d81b))
+
 ## [1.12.0](https://github.com/zakeeul-gears/release-demo/compare/v1.11.0...v1.12.0) (2024-02-15)
 
 
